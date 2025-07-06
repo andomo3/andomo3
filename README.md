@@ -13,7 +13,7 @@ Transformer-based NLP pipeline to extract financial signals from SEC filings and
 Dynamic Django-based personal website with resume viewer, blog CMS, and project showcase. Supports static generation using Markdown and Quarto.
 
 🔐 **TravelCreditScore** (Private)  
-Full-stack platform for travel visa risk prediction using ML classifiers (XGBoost, CatBoost, SHAP). Built secure REST APIs and deployed via Docker + AWS EC2.
+Full-stack platform for travel visa risk prediction.
 
 💊 **pillApp** (Private)  
 Under development: A medicine-tracking application aimed at reminder notifications and refill management.
