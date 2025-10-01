@@ -6,17 +6,11 @@ Welcome to my GitHub profile! I'm a student at **Georgia Tech**, studying **Indu
 
 ## 💼 Projects & Repositories
 
-🚀 **[BacktestingNLPSignals](https://github.com/andomo3/BacktestingNLPSignals)** (Private)  
-Transformer-based NLP pipeline to extract financial signals from SEC filings and macroeconomic news. Achieved **Sharpe ratio = 1.43**, with full modular ETL pipeline and production-ready Docker deployment.
-
 🌐 **[PortfolioWebsite](https://github.com/andomo3/PortfolioWebsite)**  
 Dynamic Django-based personal website with resume viewer, blog CMS, and project showcase. Supports static generation using Markdown and Quarto.
 
 🔐 **TravelCreditScore** (Private)  
 Full-stack platform for travel visa risk prediction.
-
-💊 **pillApp** (Private)  
-Under development: A medicine-tracking application aimed at reminder notifications and refill management.
 
 📈 **[ETF_Correlation_Analysis](https://github.com/andomo3/ETF_Correlation_Analysis)**  
 Jupyter notebook analysis exploring sector ETF performance and correlations using time-series and rolling regression models.
