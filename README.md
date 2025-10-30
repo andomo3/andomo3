@@ -22,9 +22,6 @@ This config repo powers my GitHub profile and includes theme, badge, and activit
 
 ## 👨‍💻 What I'm Currently Working On
 - Building low-latency data pipelines and backtesting frameworks for predictive finance
-- Exploring microservices and scalable MLOps for full-stack ML deployments
-- Scaling `Nomad Ratings` – a visa risk scoring platform
-
 ---
 
 ## 📫 How to Reach Me
