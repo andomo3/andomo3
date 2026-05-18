@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a student at **Georgia Tech**, studying **Indu
 
 ## 📫 How to Reach Me
 - 📧 Email: [abba.ndomo@gmail.com](mailto:abba.ndomo@gmail.com)  
-- 🌐 Portfolio: [portfolio-site-ea5i.onrender.com](https://portfolio-site-ea5i.onrender.com)  
+- 🌐 Portfolio: [andomo3.github.io/portfolioPage/#/home](https://andomo3.github.io/portfolioPage/#/home)
 - 💼 LinkedIn: [linkedin.com/in/abbandomo](https://linkedin.com/in/abbandomo)
 
 ---
