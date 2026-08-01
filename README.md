@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a student at **Georgia Tech**, studying **Indu
 
 🏗️ Altura — Renovation Cost Estimator End-to-end data engineering pipeline replacing a manual Excel-based pricing workflow. PySpark + Airflow extract deeply nested cost matrices into Parquet, DuckDB handles validation, and a Next.js interface delivers estimates in under 5 seconds vs. hours previously.
 
-📈 GTSF — Portfolio Risk Analysis Quantitative tooling for a $500K live student-managed equity fund. ARIMA models validate sector-rotation strategies; 10,000-iteration Monte Carlo simulations identified 8% tail risk that directly shaped the fund's hedging position. Bloomberg screener tripled ticker coverage from 50 to 120.
-
 📄 Document Intelligence System NLP document classification pipeline processing 10,000+ documents/month at 95% precision for 50+ enterprise auditors. O(n²) → O(n+m) hash-join refactor cut latency from 45s to 8s. Statistical validation framework with 50+ automated distributional checks governs model updates.
 
 💳 Loan Default Risk Model End-to-end credit risk classifier on 50,000+ applications. SHAP analysis surfaced debt-to-income ratio as the primary driver, enabling a tiered risk framework regulators can audit. SMOTE handles 20:1 class imbalance; 15 CTE-engineered features from raw bureau data. 80% AUC.
